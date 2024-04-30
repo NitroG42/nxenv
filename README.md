@@ -6,3 +6,7 @@
 - Test should be displayed
 - Change "Test" string in .env.local
 - The page should change after reload, it doesn't.
+
+## Bug report
+
+https://github.com/nrwl/nx/issues/23090
